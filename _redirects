@@ -1,0 +1,10 @@
+# Anciennes adresses -> nouvelles adresses (redirection permanente 301 : on garde le referencement existant)
+https://bricks-plugin.netlify.app/*  https://bricksplugin.com/:splat  301!
+http://bricks-plugin.netlify.app/*   https://bricksplugin.com/:splat  301!
+/plugins-gratuits.html  /gratuits.html  301!
+/plugins-gratuits  /gratuits.html  301!
+/forge-studio.html  /index.html  301!
+/forge-studio  /index.html  301!
+/musique  /index.html  301!
+/musique/*  /index.html  301!
+/index  /index.html  301!

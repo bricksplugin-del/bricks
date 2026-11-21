@@ -1,6 +1,10 @@
 # Anciennes adresses -> nouvelles (301)
 https://bricks-plugin.netlify.app/*  https://bricksplugin.com/:splat  301!
 http://bricks-plugin.netlify.app/*   https://bricksplugin.com/:splat  301!
+/c/cave.html  /c/octave.html  301!
+/c/drumforge.html  /o/drumforge.html  301!
+/c/beatforge.html  /o/beatforge.html  301!
+/c/kitengine.html  /o/kitengine.html  301!
 /plugins.html  /forge.html  301!
 /plugins-gratuits.html  /comics.html  301!
 /gratuits.html  /comics.html  301!

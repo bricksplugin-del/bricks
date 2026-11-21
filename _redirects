@@ -1,10 +1,28 @@
-# Anciennes adresses -> nouvelles adresses (redirection permanente 301 : on garde le referencement existant)
+# Anciennes adresses -> nouvelles (301)
 https://bricks-plugin.netlify.app/*  https://bricksplugin.com/:splat  301!
 http://bricks-plugin.netlify.app/*   https://bricksplugin.com/:splat  301!
-/plugins-gratuits.html  /gratuits.html  301!
-/plugins-gratuits  /gratuits.html  301!
-/forge-studio.html  /index.html  301!
-/forge-studio  /index.html  301!
-/musique  /index.html  301!
-/musique/*  /index.html  301!
-/index  /index.html  301!
+/plugins.html  /forge.html  301!
+/plugins-gratuits.html  /comics.html  301!
+/gratuits.html  /comics.html  301!
+/bundles.html  /forge.html#offre  301!
+/telechargements.html  /forge.html#essayer  301!
+/le-travail.html  /index.html  301!
+/instruments.html  /forge.html#synthes  301!
+/synthes.html  /forge.html#synthes  301!
+/basses.html  /forge.html#synthes  301!
+/granulaire.html  /forge.html#synthes  301!
+/boites-a-rythmes.html  /forge.html#rythmiques  301!
+/effets.html  /forge.html#effets  301!
+/modulation.html  /forge.html#effets  301!
+/reverbes.html  /forge.html#effets  301!
+/delais.html  /forge.html#effets  301!
+/filtres-distorsions.html  /forge.html#effets  301!
+/looper-textures.html  /forge.html#effets  301!
+/dynamique-et-son.html  /forge.html#dynamique  301!
+/compresseurs.html  /forge.html#dynamique  301!
+/limiteurs.html  /forge.html#dynamique  301!
+/mastering.html  /forge.html#dynamique  301!
+/egaliseurs.html  /forge.html#dynamique  301!
+/preamplis.html  /forge.html#voix  301!
+/musique.html  /index.html  301!
+/guides.html  /index.html  301!

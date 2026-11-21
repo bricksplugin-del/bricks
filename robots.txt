@@ -1,5 +1,3 @@
 User-agent: *
 Allow: /
-Disallow: /telechargements/
-
 Sitemap: https://bricksplugin.com/sitemap.xml
